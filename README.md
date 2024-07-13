@@ -2,7 +2,7 @@
 BITP3123 DISTRIBUTED APPLICATION DEVELOPMENT
 PATIENT MONITORING SYSTEM
 
-Youtube Link: 
+Youtube Link: https://youtu.be/OYjQ41Nfma0
 
 Group Members : 
 Hairul Akhmal Bashyar Bin Hairul Anuar (B032210005)
