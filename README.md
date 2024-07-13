@@ -5,7 +5,7 @@ PATIENT MONITORING SYSTEM
 Youtube Link: 
 
 Group Members : 
-Hairul Akhmal Bashyar Bin Hairul Anuar (B032210005)
+Hairul Akhmal Bashyar Bin Hairul Anuar (B032210005) (KETUA KUMPULAN)
 Muhammad Suhail Azmin Bin Baharom (B32210050)
 Muhammad Hafiz Lukman Bin Nuri Ansarizam (B032210048)
 
