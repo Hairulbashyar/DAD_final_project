@@ -2,6 +2,8 @@
 BITP3123 DISTRIBUTED APPLICATION DEVELOPMENT
 PATIENT MONITORING SYSTEM
 
+Youtube Link: 
+
 Group Members : 
 Hairul Akhmal Bashyar Bin Hairul Anuar (B032210005)
 Muhammad Suhail Azmin Bin Baharom (B32210050)
@@ -77,9 +79,3 @@ heart_rate: Float value representing heart rate readings (if using the MAX30100 
 spo2: Integer value representing blood oxygen saturation (SpO2) readings (if using the MAX30100 sensor).
 
 timestamp: Timestamp indicating when the data was recorded.
-
-6.Youtube Link
-
-
-
-
